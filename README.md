@@ -20,7 +20,7 @@
 ## 📦 How to Play
 - Check the releases to see all the available versions of the game.
 
-## 🧪 Current Status: *BETA* (Project currently in hiatus)
+## 🧪 Current Status: *ALPHA* (Project currently in hiatus)
 Playable demo with:
 - Multiple levels.
 - Full combat and collection mechanics.
