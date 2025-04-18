@@ -1,5 +1,8 @@
 # 🍓 Jump!
 
+🌐 This README is also available in:
+[Español](README.es.md)
+
 **Jump!** is a 2D platformer developed in Unity where the player must defeat monsters by jumping on them, collect all the fruits scattered across each level, and avoid dangerous obstacles to progress. Inspired by classic platformers like *Super Mario*, the game features multiple levels and ends with a challenging boss fight. Upon victory, the player is rewarded with the ability of double jump!
 
 ## 🎮 Gameplay Features
