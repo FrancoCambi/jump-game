@@ -34,5 +34,4 @@ Playable demo with:
 - More levels and enemy types
 - Sword combat system expansion
 - Save/load functionality
-- Add english language.
 
